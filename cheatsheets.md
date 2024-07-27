@@ -1,23 +1,25 @@
 
 
-To check changes to your local
+# To check changes to your local
 
 git status
 
 
-To to add your change to your local
+# To to add your change to your local
 
-# for all changes
+for all changes
+
 gid add .
 
-# for specific file
+for specific file
+
 git add my_code/
 
-To commit and create message before push
+# To commit and create message before push
 
 git commit -m "my firs push"
 
-to push your local to repository
+# To push your local to repository
 
 git push
 
