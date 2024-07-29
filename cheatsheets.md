@@ -43,6 +43,6 @@ git diff
 
 ############## To delete your git file to your staging #################
 
-to delete your git file to your working directory
+to delete your git file 
 
 git rm  --cached my_file
