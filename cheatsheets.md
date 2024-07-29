@@ -41,7 +41,7 @@ git push orgin master version_name
 
 
 
-############ Creating branch and delete branch ################
+############ Creating branch, switch and delete branch ################
 
 Creating Branch
 
@@ -55,6 +55,9 @@ Check Branch
 
 git branch
 
+Deleting branch
+
+git branch -d branch_name
 
 
 ################ To check logs, Changes and tags ###############
