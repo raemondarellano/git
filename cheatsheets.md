@@ -46,3 +46,5 @@ git diff
 to delete your git file 
 
 git rm  --cached my_file
+
+sample
