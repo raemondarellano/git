@@ -32,7 +32,7 @@ To push your Staging diretory to your repository
 git push origin master
 
 
-to add tag to (option)
+to add tag to your Staging Directory (option)
 
 git tag -a v1.0 -m "my message"
 
