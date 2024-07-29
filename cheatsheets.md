@@ -23,6 +23,10 @@ for specific file
 
 git add my_file/
 
+to add tag to your Staging Directory (optional)
+
+git tag -a v1.0 -m "my message"
+
 To commit and create message before push
 
 git commit -m "my first push"
@@ -31,10 +35,6 @@ To push your Staging diretory to your repository
 
 git push origin master
 
-
-to add tag to your Staging Directory (option)
-
-git tag -a v1.0 -m "my message"
 
 ################ To check logs, Changes and tags ###############
 
