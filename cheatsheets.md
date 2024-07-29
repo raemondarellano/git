@@ -1,6 +1,8 @@
 
 
+To check your git repository
 
+git remote -v   
 
 
 
@@ -27,10 +29,10 @@ git commit -m "my first push"
 
 To push your Staging diretory to your repository
 
-git push
+git push origin master
 
 
-################ To check logs and changes ###############
+################ To check logs, Changes and tags ###############
 
 To check commit logs
 
@@ -40,6 +42,10 @@ To check edit changes to your local
 
 git diff
 
+To check tags
+
+git tag version_name
+
 
 ############## To delete your git file to your staging #################
 
@@ -47,4 +53,6 @@ to delete your git file
 
 git rm  --cached my_file
 
-sample
+
+
+
