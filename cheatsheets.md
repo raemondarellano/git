@@ -32,6 +32,10 @@ To push your Staging diretory to your repository
 git push origin master
 
 
+to add tag to (option)
+
+git tag -a v1.0 -m "my message"
+
 ################ To check logs, Changes and tags ###############
 
 To check commit logs
