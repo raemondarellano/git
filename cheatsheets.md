@@ -79,15 +79,18 @@ git tag version_name
 
 ############## To delete your git file to your staging #################
 
-to delete your git file 
+To delete your git file 
 
 git rm  --cached my_file
 
 
 ########## To push your file to other branch ##########
 
-to push your file to other branch
+To push your file to other branch
 
 git merge branch_name
 
+To push your updated merge
+
+git push origin branch_name
 
