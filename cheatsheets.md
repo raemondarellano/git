@@ -79,7 +79,7 @@ git tag version_name
 
 ############## To delete your git file to your staging #################
 
-To delete your git file 
+To delete your git file in Staging directory
 
 git rm  --cached my_file
 
