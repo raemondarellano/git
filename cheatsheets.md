@@ -94,3 +94,8 @@ To push your updated merge
 
 git push origin branch_name
 
+######### Revert deleting file #############
+
+To revert your deleting file in the Staging directory
+
+git restore "file_name"
