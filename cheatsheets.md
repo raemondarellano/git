@@ -86,7 +86,7 @@ git rm  --cached my_file
 
 ########## To push your file to other branch ##########
 
-To push your file to other branch
+To push your file to other branch (switch to other branch not updated, for example the latest code is staging and you want to update in production git switch production and then put the merge)
 
 git merge branch_name
 
