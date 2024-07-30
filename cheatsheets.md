@@ -84,5 +84,10 @@ to delete your git file
 git rm  --cached my_file
 
 
+########## To push your file to other branch ##########
+
+to push your file to other branch
+
+git merge branch_name
 
 
